@@ -1,0 +1,1 @@
+// Adding function in project by JavaScript (now for trail)
